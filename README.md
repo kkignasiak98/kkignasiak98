@@ -52,6 +52,13 @@ particularly interested in FinTech, responsible AI, and reproducible research.
 ![Devpod](https://img.shields.io/badge/Devpod-09A3F0?style=flat-square&logo=jetbrains&logoColor=white)
 ![Devbox](https://img.shields.io/badge/Devbox-2E8B57?style=flat-square&logo=hashicorp&logoColor=white)
 
+
+### CI/CD
+
+
+[![CircleCI](https://img.shields.io/badge/CircleCI-%232D9CDB?style=flat-square&logo=circleci&logoColor=white)](https://circleci.com/)
+[![Argo CD](https://img.shields.io/badge/Argo%20CD-%23E13A5E?style=flat-square&logo=argoproj&logoColor=white)](https://argo-cd.readthedocs.io/)
+
 ### Operating systems
 
 ![NixOS](https://img.shields.io/badge/NixOS-0A6A8E?style=flat-square&logo=nixos&logoColor=white) ![Fedora](https://img.shields.io/badge/Fedora-294172?style=flat-square&logo=fedora&logoColor=white)
@@ -64,6 +71,7 @@ Feel free to connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krzysztof-ignasiak-52a6b1183/)
 [![Proton Mail](https://img.shields.io/badge/ProtonMail-8F3BFF?style=flat-square&logo=protonmail&logoColor=white)](mailto:effective_contact_gi.gumminess149@passinbox.com)
+
 
 
 ---
